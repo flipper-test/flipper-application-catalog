@@ -1,0 +1,10 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/flipper-test/app-sample
+    commit_sha: f1b18b6e21a0dfb492f8caa4f6e360012b9772eb
+description: "Sample application for Apps Catalog"
+changelog: "v1.0 - Initial release"
+author: "@flipper-test"
+screenshots:
+  - "./images/1.png"
